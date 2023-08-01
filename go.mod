@@ -1,7 +1,5 @@
 module github.com/xuperchain/xbench
-
 go 1.16
-
 require (
 	github.com/alecthomas/kingpin v1.3.8-0.20191105203113-8c96d1c22481
 	github.com/bojand/ghz v0.94.0
