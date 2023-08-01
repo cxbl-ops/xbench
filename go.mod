@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/alecthomas/kingpin v1.3.8-0.20191105203113-8c96d1c22481
-	github.com/bojand/ghz v0.94.0
+	github.com/bojand/ghz v1.57.0
 	github.com/golang/protobuf v1.5.2
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/jhump/protoreflect v1.9.0
